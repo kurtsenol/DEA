@@ -4,3 +4,4 @@ Data/
 *.xlsx
 *.xls
 .DS_Store
+.ipynb_checkpoints\
