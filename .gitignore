@@ -3,3 +3,4 @@ Data/
 *.pdf
 *.xlsx
 *.xls
+.DS_Store
