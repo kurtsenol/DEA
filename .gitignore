@@ -5,3 +5,6 @@ Data/
 *.xls
 .DS_Store
 .ipynb_checkpoints/
+*.zip
+*.pptx
+*.docx
