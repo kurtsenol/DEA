@@ -11,3 +11,6 @@ Data/
 *.log
 *.py
 *.txt
+*.pkl
+Untitled*.ipynb
+__pycache__/
