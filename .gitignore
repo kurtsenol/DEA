@@ -15,5 +15,6 @@ Viz/
 *.py
 *.txt
 *.pkl
+*.html
 Untitled*.ipynb
 __pycache__/
